@@ -23,6 +23,7 @@ GitHubga manba kodlari, suratlar va shriftlar yuklanadi. `dist/`, tekshiruv sura
 ## Imkoniyatlar
 
 - Asl profil suratlari, videolardan olingan yuqori sifatli kadrlar va Instagramdagi videolarga havolalar.
+- Haqimizda bo‘limidagi `nodirxoja-portrait-restored.png` portreti past sifatli asl kadr asosida imagegen bilan tiniqlashtirilgan.
 - Qidiruv, toifa filtrlari va brauzerda saqlanadigan tanlangan videolar.
 - Brend haqida, reklama xizmatlari, haqiqiy telefon va ijtimoiy tarmoq havolalari.
 - Tekshiriladigan murojaat formasi: Telegramga yuborish uchun matn tayyorlaydi va nusxalash imkonini beradi. Xabar avtomatik yuborilmaydi; server yoki CRM mavjud emas.
