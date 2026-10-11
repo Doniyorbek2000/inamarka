@@ -1,0 +1,8 @@
+{
+  "name": "inomarka-hayda",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Inomarka Hayda professional brand website",
+  "scripts": { "dev": "node server.mjs", "start": "node server.mjs", "build": "node build.mjs", "check": "node --check app.js" },
+  "engines": { "node": ">=18" }
+}

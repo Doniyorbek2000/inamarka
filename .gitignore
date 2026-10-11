@@ -1,0 +1,10 @@
+node_modules/
+dist/
+evidence/
+*.zip
+.vercel/
+.env
+.env.*
+!.env.example
+*.log
+assets/instagram/manifest.json
